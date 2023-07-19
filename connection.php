@@ -3,7 +3,7 @@
 $dbhost = "localhost";
 $dbuser = "root";
 $dbpass = "";
-$dbname = "busbooking_ezfare";
+$dbname = "busticketbooking-btb";
 
 if(!$conn = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname))
 {

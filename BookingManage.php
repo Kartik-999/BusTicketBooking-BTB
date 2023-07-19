@@ -13,7 +13,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-  <title>admin Panel suraksha</title>
+  <title>admin Panel</title>
 </head>
 <body>
 

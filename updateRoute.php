@@ -24,7 +24,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Admin Panel Suraksha</title>
+  <title>Routes</title>
   <!--cdn icon library -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="cssfile/sidebar.css">
